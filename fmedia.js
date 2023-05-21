@@ -37,37 +37,7 @@ function license() {
     var _0x229085 = _0x4c46, _0x206ca2 = _0x229085(631) + _0x4b2028 + _0x229085(489) + $license_item + _0x229085(468);
     return document[_0x229085(472)].innerHTML = _0x206ca2;
   }
-  if (typeof $license_key === _0x57406b(539)) _0x20c257(_0x57406b(593)); else {
-    if (typeof $license_item === _0x57406b(539)) _0x20c257(_0x57406b(608)); else {
-      if (location.hostname[_0x57406b(601)]("localhost") != -1 || location[_0x57406b(495)][_0x57406b(601)](_0x57406b(648)) != -1 || location[_0x57406b(495)][_0x57406b(601)](_0x57406b(514)) != -1) {
-        console[_0x57406b(646)]("Developed by. https://kangrian.net ( Free / Trial Version )");
-        var _0x290aa3 = document[_0x57406b(453)](_0x57406b(450));
-        if (_0x290aa3 === null) _0x20c257(_0x57406b(524)); else {
-          var _0x450f0e = (new Date)[_0x57406b(561)]();
-          _0x290aa3[_0x57406b(459)] = "&#0169;" + _0x450f0e + _0x57406b(440) + $license_item + '" target="_blank"><b>Kr</b></a>', _0x290aa3.setAttribute(_0x57406b(448), _0x57406b(449));
-        }
-      } else {
-        if ($license_key === "") _0x20c257(_0x57406b(564)); else {
-          const _0x7c76a9 = _0x168e99($license_key)[_0x57406b(442)]("|")[0], _0x1d2eec = _0x168e99($license_key)[_0x57406b(442)]("|")[1];
-          if (_0x7c76a9 == "" || _0x7c76a9 == undefined) _0x20c257("<b>Kode Lisensi</b> yang digunakan tidak valid.</b><br><br><small>#ERR_KEY</small>"); else {
-            if (location[_0x57406b(495)].indexOf(_0x7c76a9) == -1) _0x20c257(_0x57406b(584) + _0x7c76a9 + "</b><br><br><small>#ERR_DOMAIN</small>"); else {
-              if (_0x1d2eec != $license_item) {
-                function _0x2f6c2c(_0x37e3e6) {
-                  var _0xedb554 = _0x57406b;
-                  _0x37e3e6 = _0x37e3e6.split(" ");
-                  for (var _0x59046d = 0; _0x59046d < _0x37e3e6.length; _0x59046d++) {
-                    _0x37e3e6[_0x59046d] = _0x37e3e6[_0x59046d][_0xedb554(602)](0)[_0xedb554(519)]() + _0x37e3e6[_0x59046d].slice(1);
-                  }
-                  return _0x37e3e6 = _0x37e3e6[_0xedb554(558)](" "), _0x37e3e6;
-                }
-                _0x20c257("<b>Kode Lisensi</b> hanya bisa digunakan untuk <b>" + _0x2f6c2c($license_item[_0x57406b(520)]("-", " ")) + _0x57406b(528));
-              } else console[_0x57406b(646)](_0x57406b(475));
-            }
-          }
-        }
-      }
-    }
-  }
+  
 }
 window.onload = function () {
   var _0x465342 = _0x320330;
