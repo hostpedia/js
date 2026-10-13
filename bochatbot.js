@@ -147,12 +147,12 @@
       • <strong>SD (Kelas 1 - 6):</strong> Modul Jarimatika, Singapore Math, IPA Eksperimen, Bhs Indonesia, Bhs Inggris Dasar.<br>
       • <strong>SMP & SMA:</strong> Ringkasan Rumus Hafalan MIPA Cepat, Bank Soal Latihan & Persiapan UTBK SNBT.<br>
       • <strong>Video & Skill Anak:</strong> Ratusan Video Animasi Edukasi Sains, Dasar Coding/Robotik, & Tes CPNS/TKA.<br><br>
-      📂 <em>Semua format PDF siap cetak + video interaktif di Google Drive resmi tanpa batas waktu.</em>`
+      📂 <em>Semua format PDF siap cetak + video interaktif di website resmi kami.</em>`
 		},
 		cara_akses: {
 			title: "Cara Akses & Membuka di HP/Laptop",
 			reply: `Sangat praktis dan tidak membebani memori HP Bunda/Ayah! 😊<br><br>
-      1. <strong>Akses Instan:</strong> Begitu pemesanan terkonfirmasi, link Google Drive resmi langsung dikirimkan ke WhatsApp & Email Anda.<br>
+      1. <strong>Akses Instan:</strong> Begitu pemesanan terkonfirmasi, link akses resmi langsung dikirimkan ke WhatsApp & Email Anda.<br>
       2. <strong>Bisa Semua Perangkat:</strong> Cukup klik link tersebut dari <strong>HP Android, iPhone, iPad/Tablet, atau Laptop/Komputer</strong>.<br>
       3. <strong>Hemat Memori:</strong> Seluruh file 2.000+ materi tersimpan aman di cloud. Memori HP Bunda tetap lega dan tidak cepat penuh.<br>
       4. <strong>Siap Cetak Kapan Saja:</strong> Mau cetak untuk anak belajar hari ini? Cukup unduh 1 atau 2 lembar worksheet PDF yang diinginkan dan langsung print!`
@@ -177,8 +177,7 @@
 		cara_bayar: {
 			title: "Metode Pembayaran & Rekening Resmi",
 			reply: `Pembayaran resmi Paket Belajar Online Terlengkap diproses secara instan & aman melalui:<br><br>
-      • <strong>Bank BCA:</strong> 8735221088 (a.n. PT Belajar Edukasi Nusantara)<br>
-      • <strong>Bank BRI:</strong> 012201002345531 (a.n. PT Belajar Edukasi Nusantara)<br>
+      • <strong>Transfer:</strong> Bank Mandiri<br>
       • <strong>QRIS & E-Wallet:</strong> Mendukung GoPay, OVO, DANA, ShopeePay, dan LinkAja.<br><br>
       🔒 <em>Saat checkout, Anda akan mendapatkan 3 digit kode unik (misal: Rp 50.127) untuk proses verifikasi otomatis dalam hitungan menit.</em>`
 		},
